@@ -1,14 +1,14 @@
 app_id,title,rating,reviews_count,installs,developer,last_updated,version,size,content_rating,app_key,company
-com.google.android.apps.bard,Google Gemini,4.5375056,102604,"1,000,000,000+",Google LLC,1755622765.0,1.0.795460806,,Teen,gemini,Google
-com.openai.chatgpt,ChatGPT,4.7454677,130753,"500,000,000+",OpenAI,1765676481.0,1.2025.343,,Teen,chatgpt,OpenAI
-com.anthropic.claude,Claude by Anthropic,4.561533,5190,"5,000,000+",Anthropic PBC,1765675534.0,1.251208.37,,Teen,claude,Anthropic
-ai.x.grok,Grok • Smartest AI Advisor,4.8751373,23871,"50,000,000+",xAI,1765828085.0,1.0.89-release.00,,Teen,grok,xAI Corporation
-com.microsoft.copilot,​​Microsoft Copilot,4.743523,28097,"50,000,000+",Microsoft Corporation,1765485937.0,30.0.431210001,,Everyone,Copilot,Microsoft Corporation
-ai.perplexity.app.android,Perplexity - Ask Anything,4.6405606,10985,"50,000,000+",PerplexityAI,1765292025.0,2.63.1,,Teen,perplexity,"Perplexity AI, inc."
+com.google.android.apps.bard,Google Gemini,4.5377135,102839,"1,000,000,000+",Google LLC,1755622765.0,1.0.795460806,,Teen,gemini,Google
+com.openai.chatgpt,ChatGPT,4.7458806,130924,"500,000,000+",OpenAI,1765676481.0,1.2025.343,,Teen,chatgpt,OpenAI
+com.anthropic.claude,Claude by Anthropic,4.5638847,5197,"5,000,000+",Anthropic PBC,1765846928.0,1.251215.47,,Teen,claude,Anthropic
+ai.x.grok,Grok • Smartest AI Advisor,4.872288,23922,"50,000,000+",xAI,1765828085.0,1.0.89-release.00,,Teen,grok,xAI Corporation
+com.microsoft.copilot,​​Microsoft Copilot,4.7443233,28129,"50,000,000+",Microsoft Corporation,1765485937.0,30.0.431210001,,Everyone,Copilot,Microsoft Corporation
+ai.perplexity.app.android,Perplexity - Ask Anything,4.640239,11010,"50,000,000+",PerplexityAI,1765292025.0,2.65.1,,Teen,perplexity,"Perplexity AI, inc."
 ai.qwenlm.chat.android,Qwen Chat,4.0434785,29,"1,000,000+",Alibaba Cloud,,Varies with device,,Everyone,Qwen,Alibaba Cloud
-com.deepseek.chat,DeepSeek - AI Assistant,4.1388645,5516,"50,000,000+",DeepSeek,1764926217.0,1.5.5,,Teen,Deepseek,Deepseek AI
-com.facebook.stella,Meta AI - Vibes & AI Glasses,4.6606827,5172,"10,000,000+","Meta Platforms, Inc.",1765406013.0,247.0.0.54.165,,Everyone,Meta,"Meta Platforms, Inc."
-ai.character.app,"Character AI: Chat, Talk, Text",3.6693568,66266,"50,000,000+",Character.AI,1765581324.0,1.15.2,,Teen,characterai,Character.ai
-ai.inflection.pi,"Pi, your personal AI",3.7162163,921,"500,000+",Inflection AI,1765836959.0,1.21.5,,Teen,pi,Inflection AI
-com.grammarly.android.keyboard,Grammarly-AI Writing Assistant,4.1705933,25565,"50,000,000+","Grammarly, Inc.",1765807559.0,2.97.55538,,Everyone,grammarly,"Grammarly, Inc."
-com.deepl.mobiletranslator,DeepL Translate,4.654873,2685,"10,000,000+",DeepL SE,1765477237.0,25.49,,Everyone,deepl,DeepL SE
+com.deepseek.chat,DeepSeek - AI Assistant,4.1386924,5520,"50,000,000+",DeepSeek,1764926217.0,1.5.5,,Teen,Deepseek,Deepseek AI
+com.facebook.stella,Meta AI - Vibes & AI Glasses,4.6544857,5197,"10,000,000+","Meta Platforms, Inc.",1765406013.0,247.0.0.54.165,,Everyone,Meta,"Meta Platforms, Inc."
+ai.character.app,"Character AI: Chat, Talk, Text",3.6639438,66302,"50,000,000+",Character.AI,1765581324.0,1.15.2,,Teen,characterai,Character.ai
+ai.inflection.pi,"Pi, your personal AI",3.7210884,921,"500,000+",Inflection AI,1765906255.0,1.21.5,,Teen,pi,Inflection AI
+com.grammarly.android.keyboard,Grammarly-AI Writing Assistant,4.1707025,25566,"50,000,000+","Grammarly, Inc.",1765807559.0,2.97.55538,,Everyone,grammarly,"Grammarly, Inc."
+com.deepl.mobiletranslator,DeepL Translate,4.6533914,2687,"10,000,000+",DeepL SE,1765477237.0,25.50,,Everyone,deepl,DeepL SE
